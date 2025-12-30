@@ -2,13 +2,9 @@
 # NitroGen v2
 
 NitroGen v2 is a tweaked version made by DualsFWShield of the official NitroGen made originaly by NVIDIA.
+Only works on windows. Tested with these exact files and versions.
 
 # Installation
-
-## Prerequisites
-
-We **do not distribute game environments**, you must use your own copies of the games. This repository only supports running the agent on **Windows games**. You can serve the model from a Linux machine for inference, but the game ultimately has to run on Windows. We have tested on Windows 11 with Python ≥ 3.12.
-
 ## Setup
 
 Install this repo:
