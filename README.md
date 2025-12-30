@@ -11,29 +11,31 @@ Install this repo:
 ```bash
 git clone https://github.com/DualsFWShield/NitroGen.git
 ```
-Install dependencies:
+## Install dependencies:
 
-Install python and ViGEm Bus Driver
-Don't forget to check the boxes to add them to the PATH.
+- Install python and ViGEm Bus Driver
+- Don't forget to check the boxes to add them to the PATH.
 (Given in the repository but avaible on the official website)
+```bash
 ViGEmBus : https://vigembusdriver.com/download/
 Python : https://www.python.org/downloads/release/python-31311/
+```
 
-Install torch
+### Install torch
 ```bash
 pip install torch torchaudio torchvision --index-url https://download.pytorch.org/whl/cu124
 ``` 
-Install HuggingFace
+###Install HuggingFace
 ```bash
 pip install -U "huggingface_hub"
 ```
 
-Download NitroGen checkpoint from [HuggingFace](https://huggingface.co/nvidia/NitroGen):
+### Download NitroGen checkpoint from [HuggingFace](https://huggingface.co/nvidia/NitroGen):
 ```bash
 hf download nvidia/NitroGen ng.pt
 ```
 
-Install NitroGen:
+### Install NitroGen:
 ```bash
 cd NitroGen
 pip install -e .
@@ -41,9 +43,9 @@ pip install -e .
 
 # Getting Started
 
-Use the StartNitroGen.bat file to start the agent.
-Enter your path to NitroGen and the path to ng.pt (if not in the same directory) in the StartNitroGen.bat file.
-Modify the configuration in the StartNitroGen.bat file to your liking :
+- Use the StartNitroGen.bat file to start the agent.
+- Enter your path to NitroGen and the path to ng.pt (if not in the same directory) in the StartNitroGen.bat file.
+- Modify the configuration in the StartNitroGen.bat file to your liking :
 
 | Parameter | Description |
 | :--- | :--- |
@@ -63,9 +65,9 @@ Modify the configuration in the StartNitroGen.bat file to your liking :
 - You can use Cheat Engine to change the game's speed to 0.5 it may help with the agent's performance on some quick and tricky games.
 - The agent fail to find the game if multiple exe with the same name are open.
 
-You can tag me if this version helped you but you are not forced to, i uploaded it the 30/12/2025 and probably will not update it.
-Please note that this version is not the same as the official one, it is a tweaked version.
-Refer to the original project for more information and to get the latest version and updates as the project is still in development and will probably be updated in the future with new features.
+- You can tag me if this version helped you but you are not forced to, i uploaded it the 30/12/2025 and probably will not update it.
+- Please note that this version is not the same as the official one, it is a tweaked version.
+- Refer to the original project for more information and to get the latest version and updates as the project is still in development and will probably be updated in the future with new features.
 
 Official project : https://github.com/nvidia/NitroGen
 <div align="center">
