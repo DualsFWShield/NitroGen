@@ -57,6 +57,16 @@ Modify the configuration in the StartNitroGen.bat file to your liking :
 | `--no-cache` | Disable cache |
 | `timesteps` | Number of timesteps (default: 12), more timesteps = more actions |
 
+# Tips
+You can use any game that has controller support (i don't know if those with steam input are supported).
+The agent will crash if the game is not in fenetre mode, the whole game needs to be in fenetre mode and fully visible on the screen.
+You can use Cheat Engine to change the game's speed to 0.5 it may help with the agent's performance on some quick and tricky games.
+The agent fail to find the game if multiple exe with the same name are open.
+
+You can tag me if this version helped you but you are not forced to, i uploaded it the 30/12/2025 and probably will not update it.
+Please note that this version is not the same as the official one, it is a tweaked version.
+Refer to the original project for more information and to get the latest version and updates as the project is still in development and will probably be updated in the future with new features.
+
 Official project : https://github.com/nvidia/NitroGen
 <div align="center">
   <p style="font-size: 1.2em;">
