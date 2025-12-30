@@ -18,6 +18,9 @@ git clone https://github.com/DualsFWShield/NitroGen.git
 
 ```bash
 ViGEmBus : https://vigembusdriver.com/download/
+```
+
+```bash
 Python : https://www.python.org/downloads/release/python-31311/
 ```
 
