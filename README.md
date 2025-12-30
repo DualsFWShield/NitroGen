@@ -7,15 +7,15 @@ Only works on windows. Tested with these exact files and versions.
 # Installation
 ## Setup
 
-Install this repo:
+Clone this repo:
 ```bash
 git clone https://github.com/DualsFWShield/NitroGen.git
 ```
 ## Install dependencies:
 
-- Install python and ViGEm Bus Driver
+- Install python and ViGEm Bus Driver (Given in the repository but avaible on the official website).
 - Don't forget to check the boxes to add them to the PATH.
-(Given in the repository but avaible on the official website)
+
 ```bash
 ViGEmBus : https://vigembusdriver.com/download/
 Python : https://www.python.org/downloads/release/python-31311/
