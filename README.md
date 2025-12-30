@@ -16,12 +16,14 @@ git clone https://github.com/DualsFWShield/NitroGen.git
 - Install python and ViGEm Bus Driver (Given in the repository but avaible on the official website).
 - Don't forget to check the boxes to add them to the PATH.
 
+ViGEmBus : 
 ```bash
-ViGEmBus : https://vigembusdriver.com/download/
+https://vigembusdriver.com/download/
 ```
 
+Python : 
 ```bash
-Python : https://www.python.org/downloads/release/python-31311/
+https://www.python.org/downloads/release/python-31311/
 ```
 
 ### Install torch
