@@ -25,7 +25,7 @@ Python : https://www.python.org/downloads/release/python-31311/
 ```bash
 pip install torch torchaudio torchvision --index-url https://download.pytorch.org/whl/cu124
 ``` 
-###Install HuggingFace
+### Install HuggingFace
 ```bash
 pip install -U "huggingface_hub"
 ```
