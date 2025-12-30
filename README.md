@@ -45,17 +45,17 @@ Use the StartNitroGen.bat file to start the agent.
 Enter your path to NitroGen and the path to ng.pt (if not in the same directory) in the StartNitroGen.bat file.
 Modify the configuration in the StartNitroGen.bat file to your liking :
 
-PROJECT_DIR : Path to NitroGen
-MODEL_FILE : Path to ng.pt
-TIMESTEPS : Number of timesteps
-ARGS : Arguments for the agent
-
-Arguments :
---compile : Compile the model
---ctx : Number of contexts
---cfg : CFG scale
---no-cache : Disable cache
-timesteps : Number of timesteps (default : 12), more timesteps = more actions
+| Parameter | Description |
+| :--- | :--- |
+| `PROJECT_DIR` | Path to NitroGen |
+| `MODEL_FILE` | Path to ng.pt |
+| `TIMESTEPS` | Number of timesteps |
+| `ARGS` | Arguments for the agent |
+| `--compile` | Compile the model |
+| `--ctx` | Number of contexts |
+| `--cfg` | CFG scale |
+| `--no-cache` | Disable cache |
+| `timesteps` | Number of timesteps (default: 12), more timesteps = more actions |
 
 Official project : https://github.com/nvidia/NitroGen
 <div align="center">
