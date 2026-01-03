@@ -74,7 +74,9 @@ pip install -e .
 - Please note that this version is not the same as the official one, it is a tweaked version.
 - Refer to the original project for more information and to get the latest version and updates as the project is still in development and will probably be updated in the future with new features.
 
-Official project : https://github.com/nvidia/NitroGen
+Official project : https://github.com/MineDojo/NitroGen
+Special Thanks to : https://github.com/Tybost for the help and some tweak
+
 <div align="center">
   <p style="font-size: 1.2em;">
     <a href="https://nitrogen.minedojo.org/"><strong>Website</strong></a> | 
